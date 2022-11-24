@@ -1,5 +1,4 @@
-A filter is simply a rule that tells your browser which elements to block. A filter list is a set of rules that tells your browser what to block.But some web ads can only be blocked with JavaScript<br><br>过滤器只是一个规则，它告诉你的浏览器要阻止哪些元素，但有些网页广告要用JavaScript才能屏蔽<br><br>
-
+A [filter](https://help.eyeo.com/en/adblockplus/how-to-write-filters) is simply a rule that tells your browser which elements to block. A filter list is a set of rules that tells your browser what to block.But some web ads can only be blocked with JavaScript<br><br>[过滤器只是一个规则](https://help.eyeo.com/en/adblockplus/how-to-write-filters)，它告诉你的浏览器要阻止哪些元素，但有些网页广告要用JavaScript才能屏蔽<br><br>
 订阅地址:
 ```bash
 https://raw.githubusercontent.com/liqiye99/liqiye99.github.io/main/The_Collect_filters.txt
