@@ -3,6 +3,10 @@ A [filter](https://help.eyeo.com/en/adblockplus/how-to-write-filters) is simply 
 ```bash
 https://liqiye99.github.io/The_Collect_filters.txt
 ```
+备用订阅地址
+```bash
+https://ghproxy.com/https://raw.githubusercontent.com/liqiye99/liqiye99.github.io/main/The_Collect_filters.txt
+```
 <br><br>制作命令，使用[Termux](https://github.com/termux/termux-app/releases)等终端软件执行
 ```bash
 apt update;apt upgrade;sh -c "$(wget -O- https://ghproxy.com/https://raw.githubusercontent.com/liqiye99/liqiye99.github.io/main/Collect_AdblockPlus_Filter.sh)"
