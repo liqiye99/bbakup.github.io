@@ -9,7 +9,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/liqiye99/liqiye99.github.i
 ```
 <br><br>制作命令，使用[Termux](https://github.com/termux/termux-app/releases)等终端软件执行
 ```bash
-apt update;apt upgrade;sh -c "$(wget -O- https://ghproxy.com/https://raw.githubusercontent.com/liqiye99/liqiye99.github.io/main/Collect_AdblockPlus_Filter.sh)"
+sh -c "$(wget -O- https://ghproxy.com/https://raw.githubusercontent.com/liqiye99/liqiye99.github.io/main/Collect_AdblockPlus_Filter.sh)"
 ```
 <br><br>推荐订阅地址
 <br>
